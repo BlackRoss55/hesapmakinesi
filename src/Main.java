@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        int a, b, islem, sonuc;
+        int a, b, islem;
 
         System.out.println("a sayısını giriniz");
         a = sc.nextInt();
